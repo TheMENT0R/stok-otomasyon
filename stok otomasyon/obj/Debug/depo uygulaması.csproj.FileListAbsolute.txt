@@ -1,0 +1,41 @@
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe.config
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.pdb
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.AssemblyReference.cache
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form1.resources
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form2.resources
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form4.resources
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form3.resources
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Properties.Resources.resources
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.GenerateResource.cache
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.exe
+C:\Users\RyzenMaster\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.pdb
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe.config
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.pdb
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.AssemblyReference.cache
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form1.resources
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form2.resources
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form4.resources
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form3.resources
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Properties.Resources.resources
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.GenerateResource.cache
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.exe
+C:\Users\Gedik\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.pdb
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe.config
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.pdb
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form1.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form2.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form4.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Form3.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.exe
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.pdb

@@ -1,0 +1,28 @@
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe.config
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.exe
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\bin\Debug\depo uygulaması.pdb
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\Stok Kontrol.csproj.AssemblyReference.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\Stok Kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.GuvenliGiris.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.AnaSayfa.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Gecmis.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Arama.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo_uygulaması.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\Stok Kontrol.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\Stok Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.exe
+C:\Users\ThinkPad\Desktop\depoproje\depo uygulaması\obj\Debug\depo uygulaması.pdb
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\bin\Debug\depo uygulaması.exe.config
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\bin\Debug\depo uygulaması.exe
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\bin\Debug\depo uygulaması.pdb
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\Stok Kontrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo_uygulaması.GuvenliGiris.resources
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo_uygulaması.AnaSayfa.resources
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo_uygulaması.Gecmis.resources
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo_uygulaması.Arama.resources
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo_uygulaması.Properties.Resources.resources
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\Stok Kontrol.csproj.GenerateResource.cache
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\Stok Kontrol.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo uygulaması.exe
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\depo uygulaması.pdb
+C:\Users\ThinkPad\Desktop\stok otomasyon\stok otomasyon\obj\Debug\Stok Kontrol.csproj.AssemblyReference.cache
